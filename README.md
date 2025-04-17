@@ -74,13 +74,6 @@ Sample rows from `xg_model.csv`:
 └── requirements.txt           # Python dependencies (optional)
 ```
 
-## 🔧 To-Do
-
-- [ ] Add support for other models (e.g., XGBoost, RandomForest)
-- [ ] Web app with Streamlit or Gradio
-- [ ] Model explainability (SHAP, permutation importance)
-- [ ] Batch prediction from CSV input
-
 ## 📜 License
 
 MIT License.
